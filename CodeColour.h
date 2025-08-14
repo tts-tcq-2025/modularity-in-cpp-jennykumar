@@ -1,7 +1,7 @@
 #ifndef COLORCODEUTILS_H
 #define COLORCODEUTILS_H
 
-namespace TelCoColorCoder
+namespace CodeColor
 {
     extern const char* MajorColorNames[];
     extern const char* MinorColorNames[];
